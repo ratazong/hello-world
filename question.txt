@@ -1,0 +1,6 @@
+Gegeben seien zwei Gläser A und B, A gefüllt mit Wasser und B mit Whiskey, beide gleich voll.
+Nun nehme man einen Esslöffel Whiskey aus Glas A, giesse diese in Glas B und rühre ordendlich um.
+Danach nehme man einen Esslöffel Gemisch aus Glas B und giesse ihn zurück in Glas A, so dass beide Gläser wieder gleichvoll sind.
+
+In welchem der beiden Gläser ist jetzt mehr Fremdflüssigkeit?
+
